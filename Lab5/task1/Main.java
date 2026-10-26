@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Set;
 
 public class Main {
+    // null comment
     public static void main(String[] args) {
         List<String> arrayList = new ArrayList<>();
         List<String> linkedList = new LinkedList<>();
