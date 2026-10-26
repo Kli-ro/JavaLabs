@@ -1,4 +1,4 @@
-package Lab3.task1;
+package Lab5.task1;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
